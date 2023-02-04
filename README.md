@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammd Muneer</h1>
 <h3 align="center">A passionate AI engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+<img align="right" alt="Coding" width="400" src="https://readitquik.com/wp-content/uploads/2022/02/ai-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexmuneer&label=Profile%20views&color=0e75b6&style=flat" alt="codexmuneer" /> </p>
 
